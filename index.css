@@ -100,3 +100,26 @@ img {
   font-size: 16px;
   gap: 20px;
 }
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #06010c;
+  background-color: #ffffff;
+  border: none;
+  border-radius: 15px;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  top: 0;
+  left: 0;
+}
+
+.button:hover {background-color: #45a049;}
